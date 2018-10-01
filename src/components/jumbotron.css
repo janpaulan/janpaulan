@@ -1,0 +1,14 @@
+.jumbotron {
+  background-image: url(../images/header-bg2.jpg);
+  background-position: center center;
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 768px;
+  margin: auto;
+  display: block;
+}
+
+.btn-xl {
+  font-size: 18px;
+}
